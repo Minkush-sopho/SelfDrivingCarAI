@@ -5,5 +5,8 @@ This is an attempt to make a simple Self Driving Car AI. The AI has been simulat
 2. kivy
 3. Numpy
 
-# Simulation
+## Steps
+Run ` python map.py `
+
+## Simulation
 ![Alt Text](https://github.com/Minkush-sopho/SelfDrivingCarAI/blob/master/ScreenCapture_26-07-2018%2012.15.23_23.gif)
