@@ -6,4 +6,4 @@ This is an attempt to make a simple Self Driving Car AI. The AI has been simulat
 3. Numpy
 
 # Simulation
-[Demo](https://github.com/Minkush-sopho/SelfDrivingCarAI/blob/master/ScreenCapture_26-07-2018%2012.15.23_23.gif)
+![Alt Text](https://github.com/Minkush-sopho/SelfDrivingCarAI/blob/master/ScreenCapture_26-07-2018%2012.15.23_23.gif)
