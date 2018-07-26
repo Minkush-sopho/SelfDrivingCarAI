@@ -4,3 +4,5 @@ This is an attempt to make a simple Self Driving Car AI. The AI has been simulat
 1. Pytorch
 2. kivy
 3. Numpy
+
+# Simulation
