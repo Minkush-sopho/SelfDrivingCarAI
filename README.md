@@ -1,5 +1,6 @@
 # Self Driving Car AI
-This is an attempt to make a simple Self Driving Car AI. The AI has been simulated and tested using GUI application created with Kivy
+This is an attempt to make a simple Self Driving Car AI. The AI uses [Deep Q-Learning](https://en.wikipedia.org/wiki/Q-learning), a Reinforcement Learning technique, which tells an agent which action to take under which circumstances. It does not require a model of the environment and can handle problems with stochastic transitions and rewards, without requiring adaptations. AI has been simulated and tested using GUI application created with Kivy.
+
 ## Dependencies
 1. Pytorch
 2. kivy
